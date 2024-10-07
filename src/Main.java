@@ -10,4 +10,12 @@ public class Main {
         System.out.println(VROTVZYAL);
         var VORTYBYMAGA = 763789;
         System.out.println(VORTYBYMAGA);
+
+        VROTDERJI = VROTDERJI + 4;
+        System.out.println(VROTDERJI);
+        VROTVZYAL = VROTVZYAL + 4;
+        System.out.println(VROTVZYAL);
+        VORTYBYMAGA = VORTYBYMAGA + 4;
+        System.out.println(VORTYBYMAGA);
+
         }}
