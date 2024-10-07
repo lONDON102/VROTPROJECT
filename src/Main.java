@@ -2,20 +2,16 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Hello and SHASVROTDAM!");
+        System.out.println("Hello and SHASVROTDAM!");
 
-        var VROTDERJI = 8;
-        System.out.println(VROTDERJI);
-        var VROTVZYAL = 3.6;
-        System.out.println(VROTVZYAL);
-        var VORTYBYMAGA = 763789;
-        System.out.println(VORTYBYMAGA);
 
-        VROTDERJI = VROTDERJI + 4;
-        System.out.println(VROTDERJI);
-        VROTVZYAL = VROTVZYAL + 4;
-        System.out.println(VROTVZYAL);
-        VORTYBYMAGA = VORTYBYMAGA + 4;
-        System.out.println(VORTYBYMAGA);
+        short listbI = 480;
+        byte pizdukiPavlovnbl = 23;
+        byte pizdukiSergeevnbl = 27;
+        byte pizdukiAndreevnbl = 30;
+        int summaPizdukov = pizdukiPavlovnbl + pizdukiSergeevnbl + pizdukiSergeevnbl;
+        int listovKajdomyPizduku = listbI / summaPizdukov;
+        System.out.println(listovKajdomyPizduku);
+
 
         }}
