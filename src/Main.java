@@ -13,5 +13,12 @@ public class Main {
         int listovKajdomyPizduku = listbI / summaPizdukov;
         System.out.println(listovKajdomyPizduku);
 
+        int lox = 0;
+        while (lox<=10);
+        {
+            System.out.print(lox);
+            lox ++;
+        }
+
 
         }}
